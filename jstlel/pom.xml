@@ -38,5 +38,9 @@
 		</dependency>
 
 	</dependencies>
+	
+	<build>
+		<finalName>jstlel</finalName>
+	</build>
 
 </project>
